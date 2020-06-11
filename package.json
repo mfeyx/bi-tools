@@ -1,0 +1,26 @@
+{
+  "name": "bi-tools",
+  "version": "0.0.1",
+  "description": "Some Tools for Your Daily BI Business",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfeyx/bi-tools.git"
+  },
+  "keywords": [
+    "Business Intelligence",
+    "BI",
+    "helpers",
+    "tools",
+    "node"
+  ],
+  "author": "Markus Feiks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mfeyx/bi-tools/issues"
+  },
+  "homepage": "https://github.com/mfeyx/bi-tools#readme"
+}
